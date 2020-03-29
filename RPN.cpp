@@ -5,6 +5,8 @@
 /* In addition to the required exceptions, also caught exceptions where the user
 tries to divide by zero, and where the user immediately enters "q" */
 
+// Program continues running (user can fix stack and terminate normally)
+
 // RPN calculator
 
 #include <iostream>
